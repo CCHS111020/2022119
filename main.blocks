@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="5tG#/laaIyr6+[wu;Y{)" x="349" y="-41"></block><block type="pxt-on-start" id="xI6LN;EQQ4.eyRl-}k^[" x="0" y="0"><statement name="HANDLER"><block type="makerbit_infrared_connect_receiver" id="qiFLCZlf*3%7TW1mPOyg"><field name="pin">DigitalPin.P0</field></block></statement></block></xml>
